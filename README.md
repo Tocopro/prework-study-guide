@@ -4,10 +4,33 @@
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+The Bootcamp Project
+
+This Bootcamp project was to show how to use git and Github when developing a project by code with other developers.
+The Project initial steps were to download files that were already created by the tutor and installing them in visual studio.
+The initial steps downloaded were template for the project
+Each section in the bootcamp prework study guide was created to ensure that the student understands the methods used to create 
+A file in visual studio and storing the code version in the Github where other developers can view its progress and add certain features
+Using git. 
+The addition can be added as a branch which is later merged with the main branch. If any problems occur the creators can always resort to a previous
+Code version via Github.
+My motivation in creating this study guide webpage was to have an easier access to topics and subjects I will be learning in this course.
+It is a webpage subject with different subjects to be covered. HTML, CSS and JAVASCRIPT.
+There will be many topics in this study and organizing the topics for easier access is crucial. The study will be much more comprehensive 
+If the student will be able to access the right subject and make contribution that can be stored in a place that will enable them to have easier access
+Building this project was to give me the experience and knowledge in the most basic fundamental way on how to initiate a similar project while using the github repository 
+For code version editing and safe storage. Github will also enable me to access other developers who can look at my code and make the necessary contribution to add features which can be merged 
+ To the main code safely and efficiently.
+I was able to learn the capable features that are within GitHub using git. Github was an area that I had not used in the past while working on coding projects.
+This allowed me to see the vast possibilities that Github provides in working collaboratively with other developers.
+My project will be unique on the basis of a beginner in coding, experimenting with different features or capabilities. The final product will be able to stand out and appeal 
+To the end user.
+As a developer I have access to make changes to my project. In due time different ideas can be incorporated to the main project to improve the functionality
+Of the webpage.  
+Everything that is featured on my webpage is the work I have put into my project and it will be unique to my taste and style. The main goal is to make easier for me to 
+Access information on my webpage easily and efficiently.
+
+
 
 ## Table of Contents (Optional)
 
