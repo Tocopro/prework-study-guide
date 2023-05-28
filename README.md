@@ -46,19 +46,52 @@ N/A
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
+There are four sections on the webpage which contains 
+•	HTML
+•	CSS
+•	JavaScript
+•	GIT
 
-![alt text](assets/images/screenshot.png)
+In this section we include information about creating a webpage using HTML
+How each element is used in that process
+Text element
+Image element
+List element 
+Header element
+Then there is the section which divides the HTML into three sections
+Meta-related elements
+Content division elements 
+Semantic elements
+
+In the Section for CSS
+Creation of Webpage by styling
+Created a CSS file that is external and link it to the HTML page.
+The CSS file provide styling to the webpage such as margin in blue and
+The image of a cat which was downloaded with the prework study guide.
+The CSS file contains elements as selectors for the HTML content or it can 
+Class attributes.
+
+In the section for GIT
+Creating repository in GitHub to store the code.
+The main branch will contain different branches such as
+HTML branch, CSS branch and JavaScript  branch.
+Code can be added reviewed then merged in the branches
+Without affecting the main code. If the added or revised code 
+Is compatible the code is then merged to launch the new features.
+
+In the section for JavaScript
+In this section the code for JavaScript is used in conjunction with the HTML 
+Code to provide functionality for the web page. The JavaScript file is linked up with the
+HTML file and as the control reads the code from top to bottom the JavaScript code is 
+Placed in between the script tags.
+
+
+
 
 ## Credits
+ N/A
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
 
 ## License
 
