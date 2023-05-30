@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 
-=======
->>>>>>> f430709c376db95d96ca7fdeae9de4c8b06934b5
 # <Prework-Study-Guide>
 
 ## Description
